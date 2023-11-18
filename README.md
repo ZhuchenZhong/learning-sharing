@@ -115,7 +115,9 @@ PS:
 
   就是一个黑乎乎的窗口
 
-  ![intro-console_pic.jpg](.\resources\intro-console_pic.png)
+  ![intro-console_pic](.\resources\intro-console_pic.png)
+
+  
 
 - 包管理器
 
