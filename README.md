@@ -51,7 +51,7 @@
 
 接着呢，我们即将要推开计算机的大门，在大门外面，有两个大大的图案
 
-![image-20231118223511229](C:\Users\13750\AppData\Roaming\Typora\typora-user-images\image-20231118223511229.png)
+![image-20231118223511229](./resources/intro-gate.png)
 
 可能已经发现了这是两个操作系统，一个是 Windows，一个是Linux
 
