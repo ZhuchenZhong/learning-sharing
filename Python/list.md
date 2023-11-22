@@ -125,7 +125,7 @@ words_with_a = [word for word in input().split() if 'a' in word]
 
 那我们运行看一下我们分析的对不对
 
-![python-list-1](E:\Project\learning-sharing\resources\python-list-1.jpg)
+![python-list-1](../resources/python-list-1.jpg)
 
 **!** 我们是对的哦，所以我们好像大致可以先看看列表推导式看起来的结构
 
@@ -141,7 +141,7 @@ words_with_a = [word for word in input().split() if 'a' in word]
 
 那我们看看这个图片
 
-![python-list-2](E:\Project\learning-sharing\resources\python-list-2.png)
+![python-list-2](../resources/python-list-2.png)
 
 仔细观察一下，发现好像推导式也不是什么事嘛
 
@@ -163,7 +163,7 @@ words_with_a = [word for word in input().split() if 'a' in word]
 
 看看运行结果
 
-![python-list-3](E:\Project\learning-sharing\resources\python-list-3.jpg)
+![python-list-3](../resources/python-list-3.jpg)
 
 *~~观察一下相信聪明的你一定是能看明白的！~~* 
 
