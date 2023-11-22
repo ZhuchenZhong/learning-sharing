@@ -34,9 +34,9 @@
 
 ​	[一些准备](###一些准备)
 
-[一些基本操作](./base/index.md)
+[一些基本操作](./base/index.html)
 
-[Python](./Python/index.md)
+[Python](./Python/index.html)
 
 
 
