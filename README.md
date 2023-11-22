@@ -2,9 +2,21 @@
 
 
 
-**[LICENSE](./LICENSE)**
+[![](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 可能在学习中有许多的困难，慢慢走过去就好啦！
+
+这个
+
+**重要的事情！！！**
+
+- 更新不及时的话嘞，可以在[*这里踢一下*](https://github.com/ZhuchenZhong/learning-sharing/issues)
+
+- 如果有哪些部分的 *疑问* or 有一些问题但还没有更新到的可以在[*这里提交~*](https://github.com/ZhuchenZhong/learning-sharing/issues)
+
+- 这里的大部分内容是**不会手把手一摸一样告诉大家的**，写程序嘛，学习电脑知识是要学会自己探索的！
+
+    比如遇到了困难，遇到了**bug**，遇到了不知道什么情况的困难，最最可靠的还是看这篇笔记的你  (后面会讨论一下遇到了这些情况我们应该怎么去自己解决~)
 
 
 
@@ -22,9 +34,9 @@
 
 ​	[一些准备](###一些准备)
 
-[一些基本操作](./base/index.html)
+[一些基本操作](./base/index.md)
 
-[Python](./Python/index.html)
+[Python](./Python/index.md)
 
 
 
@@ -215,7 +227,7 @@ PS:
 
 所以一个优雅且好用的工具很重要，这里仅仅做一些介绍，具体的详细内容嘞放在[一些基本操作](./base/index.html)啦
 
-![python-intro-elegance](./resources/python-intro-elegance.jpg)
+![python-intro-elegance](./resources/intro-elegance.jpg)
 
 
 
