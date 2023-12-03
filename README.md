@@ -1,5 +1,7 @@
 # AL
 
+---
+
 
 
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
@@ -39,6 +41,8 @@
 [Python](./Python/index.html)
 
 [一点点题](./tests/index.html)
+
+[奇妙跳转](##奇妙跳转)
 
 
 
@@ -233,3 +237,10 @@ PS:
 
 *以后补*
 
+---
+
+## 奇妙跳转
+
+
+
+- [2023-11-29](./tmpIdea/2023-11-29.html)
